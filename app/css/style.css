@@ -813,7 +813,7 @@ textarea.input {
 }
 
 .banner>img {
-  width: 100%;
+  width: "100%";
 }
 
 .banner.banner-1 .banner-caption {
